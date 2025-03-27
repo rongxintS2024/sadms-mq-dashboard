@@ -1,7 +1,7 @@
 import { Badge } from "@/components/Badge"
 import { ProgressBar } from "@/components/ProgressBar"
 
-import { KpiEntry } from "@/app/(main)/overview/page"
+import { KpiEntry } from "@/app/(main)/RabbitMQ/page"
 
 export type CardProps = {
   title: string

@@ -5,7 +5,7 @@ const nextConfig = {
     return [
       {
         source: "/",
-        destination: "/overview",
+        destination: "/RabbitMQ",
         permanent: true,
       },
     ];

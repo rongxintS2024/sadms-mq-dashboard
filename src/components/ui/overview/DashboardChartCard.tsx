@@ -1,4 +1,4 @@
-import { PeriodValue } from "@/app/(main)/overview/page"
+import { PeriodValue } from "@/app/(main)/RabbitMQ/page"
 import { Badge } from "@/components/Badge"
 import { LineChart } from "@/components/LineChart"
 import { overviews } from "@/data/overview-data"
